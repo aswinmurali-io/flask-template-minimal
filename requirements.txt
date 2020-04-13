@@ -1,0 +1,7 @@
+pip
+virtualenv==16.7.10
+mypy
+flask==1.1.2
+pyinstaller==3.6
+pywebview==3.2
+buildozer
