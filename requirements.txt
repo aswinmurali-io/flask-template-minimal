@@ -1,7 +1,8 @@
 pip
 virtualenv==16.7.10
-mypy
+mypy==0.761
 flask==1.1.2
 pyinstaller==3.6
 pywebview==3.2
-buildozer
+buildozer==1.0; sys.platform != "win32"
+pytest==5.4.1
