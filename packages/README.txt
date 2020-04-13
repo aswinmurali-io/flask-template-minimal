@@ -1,1 +1,1 @@
-Place to put all the project dependencies
+Put all the project dependencies here
